@@ -12,3 +12,5 @@ finalizar el alquiler y, en caso de no hacerlo, el monto se expresa en pesos
 argentinos.
 5. Agregar una nueva estación al sistema
 6. Obtener un listado de los alquileres realizados aplicando un filtro.
+
+Ademas se manejan aspectos de seguridad a traves de API GW con Keycloack.
